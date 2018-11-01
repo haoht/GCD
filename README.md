@@ -11,4 +11,6 @@
 - **同步执行**没有**开启新线程**的能力，所有的任务都只能在**当前线程**执行。
 - **异步执行**有**开启新线程**的能力，但不一定会利用这种能力。
 
-[参考](https://www.jianshu.com/p/0aeb2848780d)
+[参考objective-c](https://www.jianshu.com/p/0aeb2848780d)
+
+[参考swift](https://www.jianshu.com/p/c81eb052a4a8)
