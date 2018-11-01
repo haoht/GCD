@@ -1,7 +1,5 @@
 # 多线程
 
-===
-
 无论任何队列，都遵循FIFO(first in first out, 先进先出)。
 
 ![](https://raw.githubusercontent.com/CocoaDebug/GCD/master/gcd.png)
