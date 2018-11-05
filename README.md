@@ -26,8 +26,11 @@
 
 参考资料：
 
-- [objective-c](https://www.jianshu.com/p/0aeb2848780d)
+- [https://www.jianshu.com/p/0aeb2848780d](https://www.jianshu.com/p/0aeb2848780d)
 
-- [swift](https://www.jianshu.com/p/c81eb052a4a8)
+- [https://www.jianshu.com/p/414b8e91e021](https://www.jianshu.com/p/414b8e91e021)
 
-- [deadlock](https://www.jianshu.com/p/f1c6e1eba5bd)
+- [https://www.jianshu.com/p/c81eb052a4a8](https://www.jianshu.com/p/c81eb052a4a8)
+
+- [https://www.jianshu.com/p/f1c6e1eba5bd](https://www.jianshu.com/p/f1c6e1eba5bd)
+
